@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wg-gen" />
+        <module name="wg-mini" />
+        <module name="wg-web" />
+        <module name="wg-common" />
+        <module name="wg-admin" />
+        <module name="wg-shop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wg" target="1.8" />
+      <module name="wg-admin" target="1.5" />
+      <module name="wg-common" target="1.5" />
+      <module name="wg-gen" target="1.5" />
+      <module name="wg-mini" target="1.5" />
+      <module name="wg-shop" target="1.5" />
+      <module name="wg-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="wg-admin" options="" />
+      <module name="wg-common" options="" />
+      <module name="wg-gen" options="" />
+      <module name="wg-mini" options="" />
+      <module name="wg-shop" options="" />
+      <module name="wg-web" options="-parameters" />
+    </option>
+  </component>
+</project>

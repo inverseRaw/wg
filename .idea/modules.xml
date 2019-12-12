@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/wg.iml" filepath="$PROJECT_DIR$/.idea/wg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-admin/wg-admin.iml" filepath="$PROJECT_DIR$/wg-admin/wg-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-common/wg-common.iml" filepath="$PROJECT_DIR$/wg-common/wg-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-gen/wg-gen.iml" filepath="$PROJECT_DIR$/wg-gen/wg-gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-mini/wg-mini.iml" filepath="$PROJECT_DIR$/wg-mini/wg-mini.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-shop/wg-shop.iml" filepath="$PROJECT_DIR$/wg-shop/wg-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wg-web/wg-web.iml" filepath="$PROJECT_DIR$/wg-web/wg-web.iml" />
+    </modules>
+  </component>
+</project>
